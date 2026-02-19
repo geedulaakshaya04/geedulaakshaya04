@@ -85,7 +85,7 @@
 
 <div align="center">
   <br/>
-  <img src="https://streak-stats.demolab.com?user=geedulaakshaya04-Nk&theme=dark&hide_border=true" alt="Streak" />
+  <img src="https://streak-stats.demolab.com?user=geedulaakshaya04&theme=dark&hide_border=true" alt="Streak" />
 </div>
 
 ---
