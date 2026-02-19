@@ -1,83 +1,57 @@
 <div align="center">
-  <!-- Animated Waving Header -->
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&width=1000&height=250&section=header&text=Geedula%20Akshaya&fontSize=80&fontColor=ffffff&animation=fadeIn" />
+  <!-- YOUR ORIGINAL BANNER -->
+  <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif" width="100%" />
 
-  <!-- Multi-Layered Animated Title -->
   <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=32&pause=1000&color=00D1FF&center=true&vCenter=true&width=600&lines=AI+%26+ML+Specialist+%F0%9F%A4%96;Python+Ecosystem+Expert+%F0%9F%90%8D;Data-Driven+Problem+Solver+%F0%9F%A7%A9;Building+the+Future+of+AI+%E2%9C%A8" alt="Typing SVG" />
 
-  <p align="center">
-    <a href="https://www.linkedin.com/in/geedula-akshaya-b3150133a">
-      <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="mailto:geedulaakshaya04@gmail.com">
-      <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    <img src="https://img.shields.io/badge/Location-India-00D1FF?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <!-- YOUR ORIGINAL TITLE -->
+  <h1 align="center">
+    <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="35" />
+    Hi, I'm <strong>Geedula Akshaya</strong>
+  </h1>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=BTech+Student+%F0%9F%8E%93;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Python+Developer+%F0%9F%90%8D" alt="Typing SVG" />
+</div>
+
+<div align="left">
+  <!-- YOUR ROBOT -->
+  <img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
+
+  <p>
+    I’m a BTech AI student passionate about Artificial Intelligence and building smart applications using Python and modern tools.
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
+    <a href="mailto:geedulaakshaya04@gmail.com"><img src="https://img.shields.io/badge/📧_Send_Email-1e1e2e?style=for-the-badge" /></a>
+    <img src="https://img.shields.io/badge/🚀_Open_to_Internships-1e1e2e?style=for-the-badge" />
+  </p>
+
+  <h3>🌐 Socials</h3>
+  <p>
+    <a href="https://github.com/geedulaakshaya04"><img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github" /></a>
+    <a href="https://www.linkedin.com/in/geedula-akshaya-b3150133a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" /></a>
   </p>
 </div>
 
----
+<br clear="all" />
 
-### 🧬 Executive Summary
-> **BTech Student in Artificial Intelligence & Machine Learning.** 
-> I specialize in architecting intelligent systems and translating complex data into actionable insights. My focus lies at the intersection of **Deep Learning**, **Scalable Backend Architectures**, and **Autonomous Systems**.
+## 🛠️ Skills
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,java,mysql,sql,html,css,js,vscode,git&theme=dark" />
+</p>
 
----
-
-### 🛠️ Strategic Tech Stack
-
+## 📊 GitHub Performance
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <b>Core Intelligence</b><br/>
-        <img src="https://skillicons.dev/icons?i=python,java,c,mysql" />
-      </td>
-      <td align="center" width="33%">
-        <b>Architectural Tools</b><br/>
-        <img src="https://skillicons.dev/icons?i=vscode,git,github,windows" />
-      </td>
-      <td align="center" width="33%">
-        <b>Interface & Web</b><br/>
-        <img src="https://skillicons.dev/icons?i=html,css,js" />
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-### 📊 Engineering Metrics
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=geedulaakshaya04&show_icons=true&theme=tokyonight&hide_border=true&title_color=00D1FF&text_color=ffffff&icon_color=00D1FF" height="190em" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geedulaakshaya04&layout=compact&theme=tokyonight&hide_border=true&title_color=00D1FF&text_color=ffffff" height="190em" />
-      </td>
-    </tr>
-  </table>
+  <!-- Added professional stats cards that match your Blue/Dark theme -->
+  <img src="https://github-readme-stats.vercel.app/api?username=geedulaakshaya04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geedulaakshaya04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7" height="170" />
   
   <br/>
   
-  <!-- Sleek Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=geedulaakshaya04&theme=tokyonight&hide_border=true&stroke=00D1FF&ring=00D1FF&fire=00D1FF" width="100%" />
+  <img src="https://streak-stats.demolab.com?user=geedulaakshaya04&theme=tokyonight&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7" width="100%" />
 </div>
 
----
-
-### 🐍 Workflow Activity
 <div align="center">
-  <img src="https://raw.githubusercontent.com/geedulaakshaya04/geedulaakshaya04/output/github-contribution-grid-snake.svg" alt="Snake" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=geedulaakshaya04&color=00D1FF&style=flat-square&label=PROFILE+VISITS" alt="Views" />
-  <br/>
-  <sub><i>"The best way to predict the future is to create it."</i></sub>
+  <img src="https://komarev.com/ghpvc/?username=geedulaakshaya04&style=flat-square&color=blue" alt="Profile Visit"/>
 </div>
