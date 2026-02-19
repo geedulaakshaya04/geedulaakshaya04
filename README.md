@@ -34,7 +34,7 @@
 </p>
 
 
-  <img src="<img src="https://komarev.com/ghpvc/?username=geedulaakshaya04&style=flat-square&color=blue" alt="Profile Visit"/>"/>
+  <img src="https://komarev.com/ghpvc/?username=geedulaakshaya04&style=flat-square&color=blue" alt="Profile Visit"/>
 </div>
 
 <br clear="all" />
