@@ -36,10 +36,31 @@
 
 <br clear="all" />
 
-## 🛠️ Skills
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,java,mysql,sql,html,css,js,vscode,git&theme=dark" />
-</p>
+## 🛠️ Skills 
+<p align="center"> 
+<table> 
+  <tr>
+    <td width="50%" align="center"> 
+      <h3>💻 Programming Languages</h3> 
+      <img src="https://skillicons.dev/icons?i=python,c,java,sql,html" /> 
+      <br/><br/> 
+    </td>
+    <td width="50%" align="center">
+      <h3>📚 Frameworks & Libraries</h3> 
+      <img src="https://skillicons.dev/icons?i=python" />
+    </td>
+  </tr> <tr> <td width="50%" align="center"> 
+    <h3>🗄️ Databases</h3> 
+    <img src="https://skillicons.dev/icons?i=mysql" /> 
+    <br/><br/> 
+  </td> 
+    <td width="50%" align="center">
+      <h3>🧰 Tools & Platforms</h3> 
+      <img src="https://skillicons.dev/icons?i=vscode" /> 
+    </td> 
+  </tr> 
+</table> 
+      </p>
 
 ## 📊 GitHub Performance
 <div align="center">
