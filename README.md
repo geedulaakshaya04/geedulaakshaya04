@@ -25,14 +25,14 @@
   <h3>🌐 Socials</h3>
 
   <p align="left">
-    <a href="https://github.com/geedulaakshaya04">
-      <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
+  <a href="https://github.com/geedulaakshaya04" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 
-    <a href="https://www.linkedin.com/in/geedula-akshaya-b3150133a">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-  </p>
+  <a href="https://www.linkedin.com/in/geedula-akshaya-b3150133a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
   <img src="https://komarev.com/ghpvc/?username=geedulaakshaya04&style=flat-square&color=blue" alt="Profile Visit"/>
 </div>
